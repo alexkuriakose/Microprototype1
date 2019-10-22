@@ -2,4 +2,10 @@
 void main()
 {
   printf("Hello World");
+  printf("nink vayya");
+  a='a';
+  b='l';
+  c='e';
+  d='x';
+  printf("%c%c%c%c is a bitch",a,b,c,d);
  }
